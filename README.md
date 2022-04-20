@@ -1,4 +1,5 @@
 # examen_integrador
+Oriana Cipriano
 Andres Felipe Rodriguez
-Juan José Quiroga
+Juan José 
 Mario Alejandro Marchiori
